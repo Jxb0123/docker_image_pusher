@@ -1,3 +1,1 @@
-anmour/bncr
-redis:3.2
-zhx47/jd_sign:latest
+portainer/portainer:latest
