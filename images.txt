@@ -1,1 +1,1 @@
-portainer/portainer:latest
+jiangjuhong/clash-client
