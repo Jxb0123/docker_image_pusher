@@ -1,1 +1,1 @@
-nolanhzy/pro:latest
+docker
