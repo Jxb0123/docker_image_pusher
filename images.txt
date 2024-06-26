@@ -1,1 +1,1 @@
-jiangjuhong/clash-client
+chishin/nginx-proxy-manager-zh:2.9.18
