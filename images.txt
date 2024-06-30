@@ -1,2 +1,1 @@
-mzzsfy/auto-proxy-pool:latest
-
+windyday/autock:x86
