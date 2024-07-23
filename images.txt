@@ -1,1 +1,2 @@
-jc21/mariadb-aria
+jc21/mariadb-aria:latest
+
