@@ -1,1 +1,2 @@
-auto-proxy-pool:latest
+mzzsfy/auto-proxy-pool:latest
+
