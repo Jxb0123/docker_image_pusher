@@ -1,1 +1,1 @@
-zhx47/jd_h5st_server:amd64
+auto-proxy-pool:latest
