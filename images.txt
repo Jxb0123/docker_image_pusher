@@ -1,3 +1,4 @@
-dysf888/clash-dashboard:latest
+centralx/clash:1.18.0
+
 
 
