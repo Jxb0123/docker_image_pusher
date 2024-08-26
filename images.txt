@@ -1,4 +1,4 @@
-centralx/clash:1.18.0
+haishanh/yacd:master
 
 
 
