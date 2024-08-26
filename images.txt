@@ -1,2 +1,3 @@
-dreamacro/clash-premium:latest
+dysf888/clash-dashboard:latest
+
 
