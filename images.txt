@@ -1,4 +1,4 @@
-v2fly/v2fly-core:latest
+shadowsocks/shadowsocks-libev:latest
 
 
 
