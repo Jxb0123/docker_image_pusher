@@ -1,4 +1,4 @@
-daeuniverse/dae-test:latest
+gamesang/autock:latest
 
 
 
