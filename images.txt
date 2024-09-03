@@ -1,4 +1,5 @@
-gamesang/autock:latest
+hdbjlizhe/autman:latest
+
 
 
 
