@@ -1,4 +1,4 @@
-gamesang/autock:latest
+redlou/autoupjdcookie:latest
 
 
 
