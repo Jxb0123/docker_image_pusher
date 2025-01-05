@@ -1,4 +1,4 @@
-jejz/h5st_server
+redis:3.2
 
 
 
